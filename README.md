@@ -44,4 +44,4 @@
 
 🖼️ Скриншоты дашборда
 
-![Dashboard Preview]()
+![Dashboard Preview](PowerBI-Pizza-Sales-Data-Analysis.png)

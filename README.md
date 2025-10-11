@@ -5,6 +5,7 @@
 📺 Power BI Pizza Sales Dashboard Tutorial (https://www.youtube.com/watch?v=SbbkNdpn8Jw)
 
 ✏️ Описание проекта: 
+
 Цель проекта — проанализировать продажи пиццерии и визуализировать ключевые показатели с помощью Power BI.
 Данные взяты из открытого источника: Pizza Place Sales — Maven Analytics Data Playground.(https://mavenanalytics.io/data-playground/pizza-place-sales).
 
